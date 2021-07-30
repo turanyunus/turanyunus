@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hello Everyone!</h1>
+<h3 align="center"> 👋 Hello !</h1>
 <h4 align="center">It's Turan from Turkey. I'm javascript developer. I like everyting about javascript. </h4>
 
 - 📫 How to reach me **tycelikel@gmail.com**
