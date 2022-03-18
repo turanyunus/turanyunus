@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **tycelikel@gmail.com**
 - 🌱 I’m currently diving deep to Javascript.
-- ⚡ Fun fact: ...
 
 <h3 align="left">Connect with me:</h3>
 <a href="//twitter.com/tycelikel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/tycelikel" height="30" width="30" /></a>
