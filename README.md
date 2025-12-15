@@ -1,5 +1,5 @@
 <h3 align="center"> 👋 Hello !</h1>
-<h4 align="center">It's Turan from Los Angeles I'm javascript developer. I like everyting about javascript. </h4>
+<h4 align="center">It's Turan I'm javascript developer. I like everyting about javascript. </h4>
 
 - 📫 How to reach me **tycelikel@gmail.com**
 -  I’m currently diving deep to Javascript.
